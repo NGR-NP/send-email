@@ -2,7 +2,7 @@
 
 ## Why This Script Exists
 
-After organizing a 7-day JavaScript workshop for Change Koshi, sending certificates to all participants became a hassle. We had a CSV list of attendees and used Canva’s bulk create feature to generate certificates, naming each file after the student’s email. To streamline the process, I used AI tools to create a personalized email template and wrote this script. It automatically matches each student’s email in the CSV to their certificate file and sends a personalized email with their certificate attached.
+After organizing a 7-day JavaScript workshop in collaboration with Digital Pathshala by Code for Change - Koshi, sending certificates to all participants became a hassle. We had a CSV list of attendees and used Canva’s bulk create feature to generate certificates, naming each file after the student’s email. To streamline the process, I used AI tools to create a personalized email template and wrote this script. It automatically matches each student’s email in the CSV to their certificate file and sends a personalized email with their certificate attached.
 
 ## Project Structure
 
